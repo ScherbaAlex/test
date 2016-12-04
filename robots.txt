@@ -1,0 +1,18 @@
+User-agent: Yandex
+Disallow: /cgi-bin
+Disallow: /css
+Disallow: /js
+Host: www.markizasalon.by
+
+User-agent: Googlebot
+Disallow: /cgi-bin
+Disallow: /css
+Disallow: /js
+
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /css
+Disallow: /js
+Crawl-delay: 5
+
+Sitemap: http://www.markizasalon.by/sitemap.xml

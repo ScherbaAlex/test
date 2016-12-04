@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="1024"
+	maxImageHeight="768"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	galleryTitle="Оформление окон в современном интерьере"
+	backgroundColor="rgba(51,51,51,1)"
+
+>
+  <image imageURL="images/венская штора в обрамлении зеленых штор с бокалами.jpg"
+	thumbURL="thumbs/венская штора в обрамлении зеленых штор с бокалами.jpg"
+	linkURL="images/венская штора в обрамлении зеленых штор с бокалами.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[венская штора в обрамлении зеленых штор с бокалами]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/декоративные панели с полумаркизой.jpg"
+	thumbURL="thumbs/декоративные панели с полумаркизой.jpg"
+	linkURL="images/декоративные панели с полумаркизой.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[декоративные панели с полумаркизой]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/римская штора с рисунком батик.jpg"
+	thumbURL="thumbs/римская штора с рисунком батик.jpg"
+	linkURL="images/римская штора с рисунком батик.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[римская штора с рисунком батик]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/римская штора из плотной ткани в сочетании с декоративной гардиной.jpg"
+	thumbURL="thumbs/римская штора из плотной ткани в сочетании с декоративной гардиной.jpg"
+	linkURL="images/римская штора из плотной ткани в сочетании с декоративной гардиной.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[римская штора из плотной ткани в сочетании с декоративной гардиной]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/сочетание римской шторы на окне со шторами на патах.jpg"
+	thumbURL="thumbs/сочетание римской шторы на окне со шторами на патах.jpg"
+	linkURL="images/сочетание римской шторы на окне со шторами на патах.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[сочетание римской шторы на окне со шторами на патах]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/сочетание штор с японскими панелями.jpg"
+	thumbURL="thumbs/сочетание штор с японскими панелями.jpg"
+	linkURL="images/сочетание штор с японскими панелями.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[сочетание штор с японскими панелями]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/гардина, лежащая на полу,  с асимметрично подхваченными шторами.jpg"
+	thumbURL="thumbs/гардина, лежащая на полу,  с асимметрично подхваченными шторами.jpg"
+	linkURL="images/гардина, лежащая на полу,  с асимметрично подхваченными шторами.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[гардина, лежащая на полу,  с асимметрично подхваченными шторами]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/декоративные прозрачные шторы на однотонных портьерах.jpg"
+	thumbURL="thumbs/декоративные прозрачные шторы на однотонных портьерах.jpg"
+	linkURL="images/декоративные прозрачные шторы на однотонных портьерах.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[декоративные прозрачные шторы на однотонных портьерах]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/лаконичное цветовое решение в интерьере.jpg"
+	thumbURL="thumbs/лаконичное цветовое решение в интерьере.jpg"
+	linkURL="images/лаконичное цветовое решение в интерьере.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[лаконичное цветовое решение в интерьере]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ночные шторы с гардиной.jpg"
+	thumbURL="thumbs/ночные шторы с гардиной.jpg"
+	linkURL="images/ночные шторы с гардиной.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[ночные шторы с гардиной]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ночные шторы с оптимальной степенью сборки.jpg"
+	thumbURL="thumbs/ночные шторы с оптимальной степенью сборки.jpg"
+	linkURL="images/ночные шторы с оптимальной степенью сборки.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[ночные шторы с оптимальной степенью сборки]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/оригинальное оформление окна,  с использованием кованых карнизов.jpg"
+	thumbURL="thumbs/оригинальное оформление окна,  с использованием кованых карнизов.jpg"
+	linkURL="images/оригинальное оформление окна,  с использованием кованых карнизов.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[оригинальное оформление окна,  с использованием кованых карнизов]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/сложная конфигурация потолков,  обыгранная декоративными шторами.jpg"
+	thumbURL="thumbs/сложная конфигурация потолков,  обыгранная декоративными шторами.jpg"
+	linkURL="images/сложная конфигурация потолков,  обыгранная декоративными шторами.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[сложная конфигурация потолков,  обыгранная декоративными шторами]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/совмещение плотных и прозрачных фактур.jpg"
+	thumbURL="thumbs/совмещение плотных и прозрачных фактур.jpg"
+	linkURL="images/совмещение плотных и прозрачных фактур.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[совмещение плотных и прозрачных фактур]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/сочетание глянцевых и матовых фактур.jpg"
+	thumbURL="thumbs/сочетание глянцевых и матовых фактур.jpg"
+	linkURL="images/сочетание глянцевых и матовых фактур.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[сочетание глянцевых и матовых фактур]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/сочетание однотонных штор  и штор с жаккардовым рисунком.jpg"
+	thumbURL="thumbs/сочетание однотонных штор  и штор с жаккардовым рисунком.jpg"
+	linkURL="images/сочетание однотонных штор  и штор с жаккардовым рисунком.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[сочетание однотонных штор  и штор с жаккардовым рисунком]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/трехслойное оформление окна из гардин разных фактур.jpg"
+	thumbURL="thumbs/трехслойное оформление окна из гардин разных фактур.jpg"
+	linkURL="images/трехслойное оформление окна из гардин разных фактур.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[трехслойное оформление окна из гардин разных фактур]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/шторы с двойными подхватами.jpg"
+	thumbURL="thumbs/шторы с двойными подхватами.jpg"
+	linkURL="images/шторы с двойными подхватами.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[шторы с двойными подхватами]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/вариант комбинирования штор на люверсах из плотной и прозрачной тканей.jpg"
+	thumbURL="thumbs/вариант комбинирования штор на люверсах из плотной и прозрачной тканей.jpg"
+	linkURL="images/вариант комбинирования штор на люверсах из плотной и прозрачной тканей.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[вариант комбинирования штор на люверсах из плотной и прозрачной тканей]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/гардина с рисунком на кожаной нити в сочетании со шторой на люверсах.jpg"
+	thumbURL="thumbs/гардина с рисунком на кожаной нити в сочетании со шторой на люверсах.jpg"
+	linkURL="images/гардина с рисунком на кожаной нити в сочетании со шторой на люверсах.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[гардина с рисунком на кожаной нити в сочетании со шторой на люверсах]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/современные шторы на люверсах.jpg"
+	thumbURL="thumbs/современные шторы на люверсах.jpg"
+	linkURL="images/современные шторы на люверсах.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[современные шторы на люверсах]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/шторы на люверсах   из светлых и темных тканей.jpg"
+	thumbURL="thumbs/шторы на люверсах   из светлых и темных тканей.jpg"
+	linkURL="images/шторы на люверсах   из светлых и темных тканей.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[шторы на люверсах   из светлых и темных тканей]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/шторы на люверсах из ткани с современным рисунком.jpg"
+	thumbURL="thumbs/шторы на люверсах из ткани с современным рисунком.jpg"
+	linkURL="images/шторы на люверсах из ткани с современным рисунком.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[шторы на люверсах из ткани с современным рисунком]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

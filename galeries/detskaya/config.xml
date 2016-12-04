@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="1024"
+	maxImageHeight="768"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	galleryTitle="Детская"
+	backgroundColor="rgba(51,51,51,1)"
+
+>
+  <image imageURL="images/композиция из гардины, портьер и ламбрекена из хлопка с легким цветочным узором, дополненные розовой маркизой.jpg"
+	thumbURL="thumbs/композиция из гардины, портьер и ламбрекена из хлопка с легким цветочным узором, дополненные розовой маркизой.jpg"
+	linkURL="images/композиция из гардины, портьер и ламбрекена из хлопка с легким цветочным узором, дополненные розовой маркизой.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[композиция из гардины, портьер и ламбрекена из хлопка с легким цветочным узором, дополненные розовой маркизой]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/композиция из ярких портьер и покрывала.jpg"
+	thumbURL="thumbs/композиция из ярких портьер и покрывала.jpg"
+	linkURL="images/композиция из ярких портьер и покрывала.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[композиция из ярких портьер и покрывала]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/легкая гардина с яркими портьерами, дополненная мягким ламбрекеном, декорированным разноцветными нитями.jpg"
+	thumbURL="thumbs/легкая гардина с яркими портьерами, дополненная мягким ламбрекеном, декорированным разноцветными нитями.jpg"
+	linkURL="images/легкая гардина с яркими портьерами, дополненная мягким ламбрекеном, декорированным разноцветными нитями.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[легкая гардина с яркими портьерами, дополненная мягким ламбрекеном, декорированным разноцветными нитями]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/однотонные сочные шторы дополненные японскими панелями из органзы.jpg"
+	thumbURL="thumbs/однотонные сочные шторы дополненные японскими панелями из органзы.jpg"
+	linkURL="images/однотонные сочные шторы дополненные японскими панелями из органзы.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[однотонные сочные шторы дополненные японскими панелями из органзы]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/шторы  с геометрическим рисунком и треугольным ламбрекеном.jpg"
+	thumbURL="thumbs/шторы  с геометрическим рисунком и треугольным ламбрекеном.jpg"
+	linkURL="images/шторы  с геометрическим рисунком и треугольным ламбрекеном.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[шторы  с геометрическим рисунком и треугольным ламбрекеном]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/шторы в спокойных тонах в сочетании с панелью бондо.jpg"
+	thumbURL="thumbs/шторы в спокойных тонах в сочетании с панелью бондо.jpg"
+	linkURL="images/шторы в спокойных тонах в сочетании с панелью бондо.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[шторы в спокойных тонах в сочетании с панелью бондо]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/шторы с геометрическим рисунком отделанные кантом.jpg"
+	thumbURL="thumbs/шторы с геометрическим рисунком отделанные кантом.jpg"
+	linkURL="images/шторы с геометрическим рисунком отделанные кантом.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[шторы с геометрическим рисунком отделанные кантом]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/шторы с цветочным рисунком на подхватах.jpg"
+	thumbURL="thumbs/шторы с цветочным рисунком на подхватах.jpg"
+	linkURL="images/шторы с цветочным рисунком на подхватах.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[шторы с цветочным рисунком на подхватах]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/яркие атласные шторы с ажурным ламбрекеном.jpg"
+	thumbURL="thumbs/яркие атласные шторы с ажурным ламбрекеном.jpg"
+	linkURL="images/яркие атласные шторы с ажурным ламбрекеном.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[яркие атласные шторы с ажурным ламбрекеном]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/яркие гардины в сочетании с декоративной портьерой дерево.jpg"
+	thumbURL="thumbs/яркие гардины в сочетании с декоративной портьерой дерево.jpg"
+	linkURL="images/яркие гардины в сочетании с декоративной портьерой дерево.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[яркие гардины в сочетании с декоративной портьерой дерево]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

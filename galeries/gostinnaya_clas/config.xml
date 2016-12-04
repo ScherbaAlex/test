@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="1024"
+	maxImageHeight="768"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	galleryTitle="Оформление окон в интерьере в классическом стиле"
+	backgroundColor="rgba(51,51,51,1)"
+
+>
+  <image imageURL="images/асимметричное решение из однотонных тканей.jpg"
+	thumbURL="thumbs/асимметричное решение из однотонных тканей.jpg"
+	linkURL="images/асимметричное решение из однотонных тканей.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[асимметричное решение из однотонных тканей]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/композиция для угловых окон в гостиной.jpg"
+	thumbURL="thumbs/композиция для угловых окон в гостиной.jpg"
+	linkURL="images/композиция для угловых окон в гостиной.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[композиция для угловых окон в гостиной]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/оформление двух окон с простенком.jpg"
+	thumbURL="thumbs/оформление двух окон с простенком.jpg"
+	linkURL="images/оформление двух окон с простенком.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[оформление двух окон с простенком]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/оформление окна прозрачными тканями.jpg"
+	thumbURL="thumbs/оформление окна прозрачными тканями.jpg"
+	linkURL="images/оформление окна прозрачными тканями.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[оформление окна прозрачными тканями]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/сложная композиция для гостиной комнаты.jpg"
+	thumbURL="thumbs/сложная композиция для гостиной комнаты.jpg"
+	linkURL="images/сложная композиция для гостиной комнаты.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[сложная композиция для гостиной комнаты]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/сочетание мягкого ламбрекена с гардинным полотном.jpg"
+	thumbURL="thumbs/сочетание мягкого ламбрекена с гардинным полотном.jpg"
+	linkURL="images/сочетание мягкого ламбрекена с гардинным полотном.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[сочетание мягкого ламбрекена с гардинным полотном]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/трехслойные комбинированные шторы для гостиной.jpg"
+	thumbURL="thumbs/трехслойные комбинированные шторы для гостиной.jpg"
+	linkURL="images/трехслойные комбинированные шторы для гостиной.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[трехслойные комбинированные шторы для гостиной]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/штора с хохолком на подхвате.jpg"
+	thumbURL="thumbs/штора с хохолком на подхвате.jpg"
+	linkURL="images/штора с хохолком на подхвате.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[штора с хохолком на подхвате]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/асимметричные шторы с комбинированным ламбрекеном.jpg"
+	thumbURL="thumbs/асимметричные шторы с комбинированным ламбрекеном.jpg"
+	linkURL="images/асимметричные шторы с комбинированным ламбрекеном.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[асимметричные шторы с комбинированным ламбрекеном]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/вариант панели бандо с декоративными элементами.jpg"
+	thumbURL="thumbs/вариант панели бандо с декоративными элементами.jpg"
+	linkURL="images/вариант панели бандо с декоративными элементами.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[вариант панели бандо с декоративными элементами]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/декорирование двух окон расположенных на одной стене.jpg"
+	thumbURL="thumbs/декорирование двух окон расположенных на одной стене.jpg"
+	linkURL="images/декорирование двух окон расположенных на одной стене.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[декорирование двух окон расположенных на одной стене]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/декорирование панели с использованием шнура.jpg"
+	thumbURL="thumbs/декорирование панели с использованием шнура.jpg"
+	linkURL="images/декорирование панели с использованием шнура.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[декорирование панели с использованием шнура]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/классические комплекты штор в бордово-золотых тонах для высоких окон.jpg"
+	thumbURL="thumbs/классические комплекты штор в бордово-золотых тонах для высоких окон.jpg"
+	linkURL="images/классические комплекты штор в бордово-золотых тонах для высоких окон.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[классические комплекты штор в бордово-золотых тонах для высоких окон]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/классические комплекты штор в зелено-золотых тонах для высоких окон.jpg"
+	thumbURL="thumbs/классические комплекты штор в зелено-золотых тонах для высоких окон.jpg"
+	linkURL="images/классические комплекты штор в зелено-золотых тонах для высоких окон.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[классические комплекты штор в зелено-золотых тонах для высоких окон]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/классические комплекты штор в красно-золотых тонах для высоких окон.jpg"
+	thumbURL="thumbs/классические комплекты штор в красно-золотых тонах для высоких окон.jpg"
+	linkURL="images/классические комплекты штор в красно-золотых тонах для высоких окон.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[классические комплекты штор в красно-золотых тонах для высоких окон]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/комплект штор в золотых тонах с растительным принтом.jpg"
+	thumbURL="thumbs/комплект штор в золотых тонах с растительным принтом.jpg"
+	linkURL="images/комплект штор в золотых тонах с растительным принтом.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[комплект штор в золотых тонах с растительным принтом]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/комплект штор из жаккардовых тканей с цветочным рисунком со сложным ламбрекеном.jpg"
+	thumbURL="thumbs/комплект штор из жаккардовых тканей с цветочным рисунком со сложным ламбрекеном.jpg"
+	linkURL="images/комплект штор из жаккардовых тканей с цветочным рисунком со сложным ламбрекеном.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[комплект штор из жаккардовых тканей с цветочным рисунком со сложным ламбрекеном]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/контрастное решение в оформлении панели и штор.jpg"
+	thumbURL="thumbs/контрастное решение в оформлении панели и штор.jpg"
+	linkURL="images/контрастное решение в оформлении панели и штор.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[контрастное решение в оформлении панели и штор]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/окна,  расположенные под углом, в классическом исполнении.jpg"
+	thumbURL="thumbs/окна,  расположенные под углом, в классическом исполнении.jpg"
+	linkURL="images/окна,  расположенные под углом, в классическом исполнении.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[окна,  расположенные под углом, в классическом исполнении]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/оригинальное оформление панели с использованием шнуров.jpg"
+	thumbURL="thumbs/оригинальное оформление панели с использованием шнуров.jpg"
+	linkURL="images/оригинальное оформление панели с использованием шнуров.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[оригинальное оформление панели с использованием шнуров]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/панель в технике печворк с яркими шторами.jpg"
+	thumbURL="thumbs/панель в технике печворк с яркими шторами.jpg"
+	linkURL="images/панель в технике печворк с яркими шторами.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[панель в технике печворк с яркими шторами]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/симметричная композиция для окна в гостиной.jpg"
+	thumbURL="thumbs/симметричная композиция для окна в гостиной.jpg"
+	linkURL="images/симметричная композиция для окна в гостиной.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[симметричная композиция для окна в гостиной]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/сложная панель на угловом окне.jpg"
+	thumbURL="thumbs/сложная панель на угловом окне.jpg"
+	linkURL="images/сложная панель на угловом окне.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[сложная панель на угловом окне]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/сложное композиционное решение для гостиной.jpg"
+	thumbURL="thumbs/сложное композиционное решение для гостиной.jpg"
+	linkURL="images/сложное композиционное решение для гостиной.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[сложное композиционное решение для гостиной]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/сочетание жаккардовой ткани с полосатым ламбрекеном.jpg"
+	thumbURL="thumbs/сочетание жаккардовой ткани с полосатым ламбрекеном.jpg"
+	linkURL="images/сочетание жаккардовой ткани с полосатым ламбрекеном.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[сочетание жаккардовой ткани с полосатым ламбрекеном]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/сочетание панели бандо,  отделанной шнуром,  с декоративной маркизой и шторами из жаккардовой ткани.jpg"
+	thumbURL="thumbs/сочетание панели бандо,  отделанной шнуром,  с декоративной маркизой и шторами из жаккардовой ткани.jpg"
+	linkURL="images/сочетание панели бандо,  отделанной шнуром,  с декоративной маркизой и шторами из жаккардовой ткани.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[сочетание панели бандо,  отделанной шнуром,  с декоративной маркизой и шторами из жаккардовой ткани]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/трехслойные комбинированные шторы с жестким ламбрекеном.jpg"
+	thumbURL="thumbs/трехслойные комбинированные шторы с жестким ламбрекеном.jpg"
+	linkURL="images/трехслойные комбинированные шторы с жестким ламбрекеном.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[трехслойные комбинированные шторы с жестким ламбрекеном]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/шторы и ламбрекен из ткани с цветочным рисунком с декоративными элементами.jpg"
+	thumbURL="thumbs/шторы и ламбрекен из ткани с цветочным рисунком с декоративными элементами.jpg"
+	linkURL="images/шторы и ламбрекен из ткани с цветочным рисунком с декоративными элементами.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[шторы и ламбрекен из ткани с цветочным рисунком с декоративными элементами]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/шторы с мягким ламбрекеном.jpg"
+	thumbURL="thumbs/шторы с мягким ламбрекеном.jpg"
+	linkURL="images/шторы с мягким ламбрекеном.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[шторы с мягким ламбрекеном]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/асимметричные шторы из цветных вуалей.jpg"
+	thumbURL="thumbs/асимметричные шторы из цветных вуалей.jpg"
+	linkURL="images/асимметричные шторы из цветных вуалей.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[асимметричные шторы из цветных вуалей]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/вариант оформления гостиной.jpg"
+	thumbURL="thumbs/вариант оформления гостиной.jpg"
+	linkURL="images/вариант оформления гостиной.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[вариант оформления гостиной]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/вариации использования маркизы для окна в гостиной.jpg"
+	thumbURL="thumbs/вариации использования маркизы для окна в гостиной.jpg"
+	linkURL="images/вариации использования маркизы для окна в гостиной.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[вариации использования маркизы для окна в гостиной]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/гардина в технике батик.jpg"
+	thumbURL="thumbs/гардина в технике батик.jpg"
+	linkURL="images/гардина в технике батик.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[гардина в технике батик]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/гостиная с эркерным расположением окон.jpg"
+	thumbURL="thumbs/гостиная с эркерным расположением окон.jpg"
+	linkURL="images/гостиная с эркерным расположением окон.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[гостиная с эркерным расположением окон]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/двухцветные сваги из вуалей.jpg"
+	thumbURL="thumbs/двухцветные сваги из вуалей.jpg"
+	linkURL="images/двухцветные сваги из вуалей.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[двухцветные сваги из вуалей]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/двухцветные сваги на большом окне.jpg"
+	thumbURL="thumbs/двухцветные сваги на большом окне.jpg"
+	linkURL="images/двухцветные сваги на большом окне.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[двухцветные сваги на большом окне]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/использование шелковых тканей с классическим рисунком.jpg"
+	thumbURL="thumbs/использование шелковых тканей с классическим рисунком.jpg"
+	linkURL="images/использование шелковых тканей с классическим рисунком.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[использование шелковых тканей с классическим рисунком]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/композиция из однотонных вуалей.jpg"
+	thumbURL="thumbs/композиция из однотонных вуалей.jpg"
+	linkURL="images/композиция из однотонных вуалей.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[композиция из однотонных вуалей]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/оформление арочных окон с использованием ламбрекенов.jpg"
+	thumbURL="thumbs/оформление арочных окон с использованием ламбрекенов.jpg"
+	linkURL="images/оформление арочных окон с использованием ламбрекенов.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[оформление арочных окон с использованием ламбрекенов]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/оформление гостиной с высоким потолком.jpg"
+	thumbURL="thumbs/оформление гостиной с высоким потолком.jpg"
+	linkURL="images/оформление гостиной с высоким потолком.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[оформление гостиной с высоким потолком]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/оформление межлестничного окна с помощью ламбрекена.jpg"
+	thumbURL="thumbs/оформление межлестничного окна с помощью ламбрекена.jpg"
+	linkURL="images/оформление межлестничного окна с помощью ламбрекена.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[оформление межлестничного окна с помощью ламбрекена]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/портьеры в сочетании с двухцветным ламбрекеном, дополненным кисточками.jpg"
+	thumbURL="thumbs/портьеры в сочетании с двухцветным ламбрекеном, дополненным кисточками.jpg"
+	linkURL="images/портьеры в сочетании с двухцветным ламбрекеном, дополненным кисточками.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[портьеры в сочетании с двухцветным ламбрекеном, дополненным кисточками]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/портьеры, дополненные мягким ламбрекеном, отделанным бархатом.jpg"
+	thumbURL="thumbs/портьеры, дополненные мягким ламбрекеном, отделанным бархатом.jpg"
+	linkURL="images/портьеры,  дополненные мягким ламбрекеном, отделанным бархатом.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[портьеры, дополненные мягким ламбрекеном, отделанным бархатом]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/симметричная композиция из жаккардовых тканей.jpg"
+	thumbURL="thumbs/симметричная композиция из жаккардовых тканей.jpg"
+	linkURL="images/симметричная композиция из жаккардовых тканей.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[симметричная композиция из жаккардовых тканей]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/сложная композиция со шторами из жаккардовой ткани, декоративной маркизой, классической свагой.jpg"
+	thumbURL="thumbs/сложная композиция со шторами из жаккардовой ткани, декоративной маркизой, классической свагой.jpg"
+	linkURL="images/сложная композиция со шторами из жаккардовой ткани, декоративной маркизой, классической свагой.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[сложная композиция со шторами из жаккардовой ткани, декоративной маркизой, классической свагой]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/сложный ламбрекен из бархатной ткани дополненный декоративной маркизой.jpg"
+	thumbURL="thumbs/сложный ламбрекен из бархатной ткани дополненный декоративной маркизой.jpg"
+	linkURL="images/сложный ламбрекен из бархатной ткани дополненный декоративной маркизой.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[сложный ламбрекен из бархатной ткани дополненный декоративной маркизой]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/трехслойная классическая композиция.jpg"
+	thumbURL="thumbs/трехслойная классическая композиция.jpg"
+	linkURL="images/трехслойная классическая композиция.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[трехслойная классическая композиция]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/тяжелые шторы в сочетании с классическими свагами.jpg"
+	thumbURL="thumbs/тяжелые шторы в сочетании с классическими свагами.jpg"
+	linkURL="images/тяжелые шторы в сочетании с классическими свагами.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[тяжелые шторы в сочетании с классическими свагами]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/эркер из шелковых тканей с цветочным рисунком.jpg"
+	thumbURL="thumbs/эркер из шелковых тканей с цветочным рисунком.jpg"
+	linkURL="images/эркер из шелковых тканей с цветочным рисунком.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[эркер из шелковых тканей с цветочным рисунком]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
+

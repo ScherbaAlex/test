@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="1024"
+	maxImageHeight="768"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	galleryTitle="Кабинет"
+	backgroundColor="rgba(51,51,51,1)"
+
+>
+  <image imageURL="images/гардина в половину длинны с классической панелью бандо.jpg"
+	thumbURL="thumbs/гардина в половину длинны с классической панелью бандо.jpg"
+	linkURL="images/гардина в половину длинны с классической панелью бандо.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[гардина в половину длинны с классической панелью бандо]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/классические портьеры с рисунком дополненные тесьмой на подхватах.jpg"
+	thumbURL="thumbs/классические портьеры с рисунком дополненные тесьмой на подхватах.jpg"
+	linkURL="images/классические портьеры с рисунком дополненные тесьмой на подхватах.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[классические портьеры с рисунком дополненные тесьмой на подхватах]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/классические шторы на подкладке в сочетании с маркизой.jpg"
+	thumbURL="thumbs/классические шторы на подкладке в сочетании с маркизой.jpg"
+	linkURL="images/классические шторы на подкладке в сочетании с маркизой.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[классические шторы на подкладке в сочетании с маркизой]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/комплект из однотонной гардины и асимметричной портьеры из ткани с растительным рисунком с панелью бандо.jpg"
+	thumbURL="thumbs/комплект из однотонной гардины и асимметричной портьеры из ткани с растительным рисунком с панелью бандо.jpg"
+	linkURL="images/комплект из однотонной гардины и асимметричной портьеры из ткани с растительным рисунком с панелью бандо.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[комплект из однотонной гардины и асимметричной портьеры из ткани с растительным рисунком с панелью бандо]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/плотные шторы на люверсах в сочетании с римской шторой, отделанной кантом.jpg"
+	thumbURL="thumbs/плотные шторы на люверсах в сочетании с римской шторой, отделанной кантом.jpg"
+	linkURL="images/плотные шторы на люверсах в сочетании с римской шторой, отделанной кантом.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[плотные шторы на люверсах в сочетании с римской шторой, отделанной кантом]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/шторы с классическим рисунком отороченные кантом.jpg"
+	thumbURL="thumbs/шторы с классическим рисунком отороченные кантом.jpg"
+	linkURL="images/шторы с классическим рисунком отороченные кантом.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[шторы с классическим рисунком отороченные кантом]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/яркое решение панели бандо с геометрическими формами.jpg"
+	thumbURL="thumbs/яркое решение панели бандо с геометрическими формами.jpg"
+	linkURL="images/яркое решение панели бандо с геометрическими формами.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[яркое решение панели бандо с геометрическими формами]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

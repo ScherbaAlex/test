@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="1024"
+	maxImageHeight="768"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	galleryTitle="Кухни"
+	backgroundColor="rgba(51,51,51,1)"
+
+>
+  <image imageURL="images/гардина из хлопка с декоративными элементами.jpg"
+	thumbURL="thumbs/гардина из хлопка с декоративными элементами.jpg"
+	linkURL="images/гардина из хлопка с декоративными элементами.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[гардина из хлопка с декоративными элементами]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/двухслойные шторы на подхватах.jpg"
+	thumbURL="thumbs/двухслойные шторы на подхватах.jpg"
+	linkURL="images/двухслойные шторы на подхватах.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[двухслойные шторы на подхватах]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/декоративная портьера-дерево.jpg"
+	thumbURL="thumbs/декоративная портьера-дерево.jpg"
+	linkURL="images/декоративная портьера-дерево.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[декоративная портьера-дерево]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/классические шторы с ламбрекеном для кухни.jpg"
+	thumbURL="thumbs/классические шторы с ламбрекеном для кухни.jpg"
+	linkURL="images/классические шторы с ламбрекеном для кухни.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[классические шторы с ламбрекеном для кухни]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/композиция из японских панелей с рисунком батик и плотных портьер на подхватах.jpg"
+	thumbURL="thumbs/композиция из японских панелей с рисунком батик и плотных портьер на подхватах.jpg"
+	linkURL="images/композиция из японских панелей с рисунком батик и плотных портьер на подхватах.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[композиция из японских панелей с рисунком батик и плотных портьер на подхватах]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/лаконичный вариант из прозрачной гардины и плотных двухслойных портьер.jpg"
+	thumbURL="thumbs/лаконичный вариант из прозрачной гардины и плотных двухслойных портьер.jpg"
+	linkURL="images/лаконичный вариант из прозрачной гардины и плотных двухслойных портьер.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[лаконичный вариант из прозрачной гардина и плотных двухслойных портьер]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/прозрачная гардина с петлями на подхватах.jpg"
+	thumbURL="thumbs/прозрачная гардина с петлями на подхватах.jpg"
+	linkURL="images/прозрачная гардина с петлями на подхватах.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[прозрачная гардина с петлями на подхватах]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/прозрачные шторы на люверсах.jpg"
+	thumbURL="thumbs/прозрачные шторы на люверсах.jpg"
+	linkURL="images/прозрачные шторы на люверсах.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[прозрачные шторы на люверсах]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/римская штора в сочетании с  яркой портьерой на люверсах.jpg"
+	thumbURL="thumbs/римская штора в сочетании с  яркой портьерой на люверсах.jpg"
+	linkURL="images/римская штора в сочетании с  яркой портьерой на люверсах.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[римская штора в сочетании с  яркой портьерой на люверсах]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/римская штора дополненная полупрозрачной портьерой на подхвате.jpg"
+	thumbURL="thumbs/римская штора дополненная полупрозрачной портьерой на подхвате.jpg"
+	linkURL="images/римская штора дополненная полупрозрачной портьерой на подхвате.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[римская штора дополненная полупрозрачной портьерой на подхвате]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/римская штора с рисунком батик в сочетании с плотными шторами.jpg"
+	thumbURL="thumbs/римская штора с рисунком батик в сочетании с плотными шторами.jpg"
+	linkURL="images/римская штора с рисунком батик в сочетании с плотными шторами.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[римская штора с рисунком батик в сочетании с плотными шторами]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/римская шторы на петлях.jpg"
+	thumbURL="thumbs/римская шторы на петлях.jpg"
+	linkURL="images/римская шторы на петлях.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[римская шторы на петлях]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/сочетание маркизы с двухслойным ламбрекеном.jpg"
+	thumbURL="thumbs/сочетание маркизы с двухслойным ламбрекеном.jpg"
+	linkURL="images/сочетание маркизы с двухслойным ламбрекеном.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[сочетание маркизы с двухслойным ламбрекеном]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/сочетание плотной римской шторы и легкой короткой гардины.jpg"
+	thumbURL="thumbs/сочетание плотной римской шторы и легкой короткой гардины.jpg"
+	linkURL="images/сочетание плотной римской шторы и легкой короткой гардины.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[сочетание плотной римской шторы и легкой короткой гардины]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

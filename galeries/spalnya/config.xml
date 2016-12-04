@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="1024"
+	maxImageHeight="768"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	galleryTitle="Спальня"
+	backgroundColor="rgba(51,51,51,1)"
+
+>
+  <image imageURL="images/асимметричные ламбрекены в спальне.jpg"
+	thumbURL="thumbs/асимметричные ламбрекены в спальне.jpg"
+	linkURL="images/асимметричные ламбрекены в спальне.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[асимметричные ламбрекены в спальне]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/интерьерное решение в стиле минимализм.jpg"
+	thumbURL="thumbs/интерьерное решение в стиле минимализм.jpg"
+	linkURL="images/интерьерное решение в стиле минимализм.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[интерьерное решение в стиле минимализм]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/классическая композиция в зеленых тонах с ламбрекеном.jpg"
+	thumbURL="thumbs/классическая композиция в зеленых тонах с ламбрекеном.jpg"
+	linkURL="images/классическая композиция в зеленых тонах с ламбрекеном.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[классическая композиция в зеленых тонах с ламбрекеном]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/классические шторы со сложным ламбрекеном.jpg"
+	thumbURL="thumbs/классические шторы со сложным ламбрекеном.jpg"
+	linkURL="images/классические шторы со сложным ламбрекеном.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[классические шторы со сложным ламбрекеном]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/композиция из трехслойных штор в шоколадных тонах.jpg"
+	thumbURL="thumbs/композиция из трехслойных штор в шоколадных тонах.jpg"
+	linkURL="images/композиция из трехслойных штор в шоколадных тонах.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[композиция из трехслойных штор в шоколадных тонах]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/лаконичный вариант оформления окна в спальне в современном стиле.jpg"
+	thumbURL="thumbs/лаконичный вариант оформления окна в спальне в современном стиле.jpg"
+	linkURL="images/лаконичный вариант оформления окна в спальне в современном стиле.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[лаконичный вариант оформления окна в спальне в современном стиле]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/многослойная композиция для большого окна в спальной комнате.jpg"
+	thumbURL="thumbs/многослойная композиция для большого окна в спальной комнате.jpg"
+	linkURL="images/многослойная композиция для большого окна в спальной комнате.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[многослойная композиция для большого окна в спальной комнате]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/плотные шторы с  цветочным рисунком на подхватах в сочетании с цветными гардинами.jpg"
+	thumbURL="thumbs/плотные шторы с  цветочным рисунком на подхватах в сочетании с цветными гардинами.jpg"
+	linkURL="images/плотные шторы с  цветочным рисунком на подхватах в сочетании с цветными гардинами.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[плотные шторы с  цветочным рисунком на подхватах в сочетании с цветными гардинами]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/простая плоская панель на спальном окне.jpg"
+	thumbURL="thumbs/простая плоская панель на спальном окне.jpg"
+	linkURL="images/простая плоская панель на спальном окне.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[простая плоская панель на спальном окне]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/роскошный комплект штор для спальни.jpg"
+	thumbURL="thumbs/роскошный комплект штор для спальни.jpg"
+	linkURL="images/роскошный комплект штор для спальни.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[роскошный комплект штор для спальни]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/сочетание однотонных плотных штор с гардинными полотнами (2).jpg"
+	thumbURL="thumbs/сочетание однотонных плотных штор с гардинными полотнами (2).jpg"
+	linkURL="images/сочетание однотонных плотных штор с гардинными полотнами (2).jpg"
+	linkTarget="_blank">
+    <title><![CDATA[сочетание однотонных плотных штор с гардинными полотнами (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/сочетание однотонных плотных штор с гардинными полотнами.jpg"
+	thumbURL="thumbs/сочетание однотонных плотных штор с гардинными полотнами.jpg"
+	linkURL="images/сочетание однотонных плотных штор с гардинными полотнами.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[сочетание однотонных плотных штор с гардинными полотнами]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/спальный вариант в зеленых тонах.jpg"
+	thumbURL="thumbs/спальный вариант в зеленых тонах.jpg"
+	linkURL="images/спальный вариант в зеленых тонах.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[спальный вариант в зеленых тонах]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/шторы из жаккардовых тканей с цветочным рисунком.jpg"
+	thumbURL="thumbs/шторы из жаккардовых тканей с цветочным рисунком.jpg"
+	linkURL="images/шторы из жаккардовых тканей с цветочным рисунком.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[шторы из жаккардовых тканей с цветочным рисунком]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

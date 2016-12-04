@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="1024"
+	maxImageHeight="768"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	galleryTitle="Ванная"
+	backgroundColor="rgba(51,51,51,1)"
+
+>
+  <image imageURL="images/гардина на подхвате, дополненная классическим ламбрекеном.jpg"
+	thumbURL="thumbs/гардина на подхвате, дополненная классическим ламбрекеном.jpg"
+	linkURL="images/гардина на подхвате, дополненная классическим ламбрекеном.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[гардина на подхвате, дополненная классическим ламбрекеном]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/декоративная штора для маленького окна.jpg"
+	thumbURL="thumbs/декоративная штора для маленького окна.jpg"
+	linkURL="images/декоративная штора для маленького окна.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[декоративная штора для маленького окна]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/декоративная штора.jpg"
+	thumbURL="thumbs/декоративная штора.jpg"
+	linkURL="images/декоративная штора.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[декоративная штора]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/декоративные прозрачные шторы.jpg"
+	thumbURL="thumbs/декоративные прозрачные шторы.jpg"
+	linkURL="images/декоративные прозрачные шторы.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[декоративные прозрачные шторы]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/маркиза из плотной ткани с цветочным рисунком.jpg"
+	thumbURL="thumbs/маркиза из плотной ткани с цветочным рисунком.jpg"
+	linkURL="images/маркиза из плотной ткани с цветочным рисунком.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[маркиза из плотной ткани с цветочным рисунком]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/оформление окна в ванной комнате плотной атласной гардиной и полупрозрачной шторой на подхвате.jpg"
+	thumbURL="thumbs/оформление окна в ванной комнате плотной атласной гардиной и полупрозрачной шторой на подхвате.jpg"
+	linkURL="images/оформление окна в ванной комнате плотной атласной гардиной и полупрозрачной шторой на подхвате.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[оформление окна в ванной комнате плотной атласной гардиной и полупрозрачной шторой на подхвате]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/римская штора дополненная легкой гардиной на люверсах.jpg"
+	thumbURL="thumbs/римская штора дополненная легкой гардиной на люверсах.jpg"
+	linkURL="images/римская штора дополненная легкой гардиной на люверсах.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[римская штора дополненная легкой гардиной на люверсах]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/римская штора с кантами.jpg"
+	thumbURL="thumbs/римская штора с кантами.jpg"
+	linkURL="images/римская штора с кантами.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[римская штора с кантами]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/шторы на витражных штангах.jpg"
+	thumbURL="thumbs/шторы на витражных штангах.jpg"
+	linkURL="images/шторы на витражных штангах.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[шторы на витражных штангах]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/шторы с мягким ламбрекеном для узкого окна.jpg"
+	thumbURL="thumbs/шторы с мягким ламбрекеном для узкого окна.jpg"
+	linkURL="images/шторы с мягким ламбрекеном для узкого окна.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[шторы с мягким ламбрекеном для узкого окна]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
